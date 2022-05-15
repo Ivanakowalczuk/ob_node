@@ -1,0 +1,24 @@
+{
+  "name": "ob_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "saludar": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanakowalczuk/ob_node.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Ivana Kowalczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanakowalczuk/ob_node/issues"
+  },
+  "homepage": "https://github.com/Ivanakowalczuk/ob_node#readme"
+}
